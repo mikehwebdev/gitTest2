@@ -1,7 +1,12 @@
-This is some test text.
+
 
 This is some more text.
 
 This is some more testing 
 
 More testing
+
+
+This is testing my new branch
+
+This is testing some more functionality
